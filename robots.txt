@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://thmshrt.github.io/sitemap.xml

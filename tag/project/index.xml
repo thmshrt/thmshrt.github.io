@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project | </title>
+    <link>https://thmshrt.github.io/tag/project/</link>
+      <atom:link href="https://thmshrt.github.io/tag/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>project</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thmshrt.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>project</title>
+      <link>https://thmshrt.github.io/tag/project/</link>
+    </image>
+    
+    <item>
+      <title>Mass Spectrometry Imaging</title>
+      <link>https://thmshrt.github.io/project/multiomic/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://thmshrt.github.io/project/multiomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QIHC</title>
+      <link>https://thmshrt.github.io/project/qif/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://thmshrt.github.io/project/qif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://thmshrt.github.io/project/unbiasedai/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://thmshrt.github.io/project/unbiasedai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
